@@ -1,0 +1,1 @@
+ALTER TABLE `aula` ADD `name` text;
